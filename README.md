@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jake!
 
-I'm a Junior at the University of Pennsylvania, studying Biochemistry and Computer Science. Feel free to look through some of the random things I've created :)
+I'm a Senior at the University of Pennsylvania, studying Biochemistry and Computer Science. Feel free to look through some of the random things I've created :)
 
 I'm mostly interested in WebDev, but that time I simulated water molcules for a Physics class was also pretty cool...
 
