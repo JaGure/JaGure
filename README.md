@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jake!
 
-I'm a recent graduate of the University of Pennsylvania, having received my BA in Biochemistry and Computer Science and my MSc in Chemistry. I want to make the world a better place using code. I'm interested in using computational tools to solve biological problems. I'm also interested in WebDev! Feel free to look through some of the hobby websites I've created.
+I'm a recent graduate of the University of Pennsylvania, having received my BA in Biochemistry and Computer Science and my MSc in Chemistry. I want to make the world a better place using code. I'm interested in using computational tools to solve biological problems. I'm also interested in WebDev! Feel free to look through some of the projects I've worked on.
 
 <!--
 **JaGure/JaGure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
